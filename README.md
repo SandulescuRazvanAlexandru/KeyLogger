@@ -16,4 +16,4 @@
 3. Review the "Secrets.txt" file in the application's directory for the logged keystrokes.
 
 ## Note:
-This tool is for demonstration and educational purposes. Unauthorized or malicious use is discouraged.
+> This tool is for demonstration and educational purposes. Unauthorized or malicious use is discouraged.
