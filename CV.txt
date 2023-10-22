@@ -1,0 +1,1 @@
+Designed and implemented a Windows-based keylogger in C++, efficiently capturing and logging intricate keystroke combinations, including special characters and SHIFT-key dynamics, while utilizing Windows API for discreet console interactions.
